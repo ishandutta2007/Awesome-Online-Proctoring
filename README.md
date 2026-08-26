@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,57 +40,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Proctorio](https://proctorio.com/)**  
-
-  Automated and configurable online proctoring platform widely used in higher education, offering browser lockdown, recording, identity verification, and review workflows.
-
-
-
-- **[Honorlock](https://honorlock.com/)**  
-
-  AI-powered proctoring with on-demand live proctor support, popular in higher education for balancing automation with human oversight.
-
-
-
-- **[Examity](https://www.examity.com/)**  
-
-  Live and automated remote proctoring platform focused on high-stakes exams with verifiable session evidence and exception handling.
-
-
-
-- **[ProctorU (Meazure Learning)](https://www.meazurelearning.com/)**  
-
-  Live human remote proctoring service with real-time intervention, strong for certification and professional licensing exams.
-
-
-
-- **[Mettl Secure Browser / Mercer Mettl](https://mettl.com/)**  
-
-  Assessment and proctoring platform with secure browser, AI proctoring, and enterprise-grade exam integrity features.
-
-
-
-- **[Respondus Monitor](https://web.respondus.com/)**  
-
-  LMS-integrated remote proctoring solution paired with Respondus LockDown Browser for recorded and monitored exam sessions.
-
-
-
-- **[Talview](https://www.talview.com/)**  
-
-  AI proctoring and assessment platform supporting video interviews, online exams, and integrity monitoring.
-
-
-
-- **[Inspera Proctoring](https://www.inspera.com/)**  
-
-  Proctoring capabilities within the Inspera assessment platform, used by educational institutions for secure digital exams.
-
-
-
-- **[Smowl](https://smowl.net/)**  
-
-  Online proctoring solution with continuous identity verification and automated anomaly detection for remote assessments.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+|:---|:---|:---|:---|
+| **[Proctorio](https://proctorio.com/)** | Automated online proctoring offering browser lockdown, recording, identity verification, and review workflows. | ~$8 – $15 / student / year (or $10 / single exam; $20 / course unlimited student-pay) | No free plan; No self-serve trial (custom guided institutional demo available on request) |
+| **[Honorlock](https://honorlock.com/)** | AI-powered proctoring with on-demand live proctor pop-in support, balancing automation with human oversight. | ~$8.24 – $10 / exam (or ~$15 – $25 / student / year institutional rate) | No free plan; No self-serve trial (scheduled interactive demo available on request) |
+| **[Examity](https://www.examity.com/)** | Multi-tier proctoring (automated, record-and-review, live) for high-stakes testing with exception workflows. | ~$3.75 – $5 / exam (Automated tier); ~$14 – $20 / exam (Live proctoring tier) | No free plan; No self-serve trial (institutional pilot/demo available on request) |
+| **[ProctorU (Meazure Learning)](https://www.meazurelearning.com/)** | Live human proctoring with real-time intervention for high-stakes certification and licensing exams. | ~$12.60 – $15 / first hour per exam (+ $7.75 / additional hour) | No free plan; No self-serve trial (institutional platform demo available on request) |
+| **[Mercer Mettl](https://mettl.com/)** | Comprehensive assessment & proctoring suite with Mettl Secure Browser, 3-point AI proctoring, and live feed. | ~$2 – $5 / candidate assessment (or ~$2,000 / year base platform tier) | Free trial available with up to 5–10 sample test candidate assessments upon demo sign-up |
+| **[Respondus Monitor](https://web.respondus.com/)** | LMS-integrated automated proctoring companion to LockDown Browser using student webcams to record exams. | $4,950 / year flat fee (base tier for 1,000 seats; ~$4.95/seat) or $15 / student / year | 200 free seats/year included with LockDown Browser license; 2-month unlimited institutional free pilot |
+| **[Talview](https://www.talview.com/)** | AI-led remote proctoring and assessment platform supporting video interviews, secure browsers, and integrity monitoring. | ~$25,000 / year (enterprise platform tier) or ~$10 – $15 / candidate assessment | No free plan; No self-serve trial (personalized solution demo available on request) |
+| **[Inspera Proctoring](https://www.inspera.com/)** | End-to-end digital exam proctoring ecosystem supporting recorded, record-and-review, and live human proctors. | ~$10 – $30 / student / year (or tiered per-candidate rate based on proctoring model) | No free plan; 6-month institutional pilot programs offered for qualifying universities / demo on request |
+| **[Smowl](https://smowl.net/)** | Online proctoring with continuous identity verification and automated biometric anomaly detection. | ~$2 – $3 / exam (activity-based license) or ~$10 – $20 / student / year (unlimited exams) | Free trial includes 25 complimentary test proctoring licenses |
 
 
 
