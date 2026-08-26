@@ -65,7 +65,7 @@ The table below details category-leading SaaS proctoring platforms sorted in **d
 
 Explore the top open-source exam proctoring software, AI cheating detection algorithms, and secure kiosk browsers on GitHub, sorted in **descending order by star count**:
 
-| 📦 Repository & Project | ⭐ Stars | 🛠️ Tech Stack & Focus | 🔍 Key Features & Capabilities |
+| 📦 Repository & Project | ⭐ Github_Stars | 🛠️ Tech Stack & Focus | 🔍 Key Features & Capabilities |
 |:---|:---:|:---|:---|
 | **[vardanagarwal/Proctoring-AI](https://github.com/vardanagarwal/Proctoring-AI)** | [![GitHub stars](https://img.shields.io/github/stars/vardanagarwal/Proctoring-AI?style=social&color=white)](https://github.com/vardanagarwal/Proctoring-AI/stargazers) | `Python` `OpenCV` `Dlib` `YOLOv3` | Automated computer-vision monitoring tracking eye gaze direction, head pose orientation, mouth movement (talking detection), and unauthorized electronic device recognition. |
 | **[SafeExamBrowser/seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring)** | [![GitHub stars](https://img.shields.io/github/stars/SafeExamBrowser/seb-win-refactoring?style=social&color=white)](https://github.com/SafeExamBrowser/seb-win-refactoring/stargazers) | `C#` `.NET` `WPF` `CEF` | The gold standard open-source secure kiosk exam browser for Windows. Locks down the OS environment, blocks unauthorized shortcut keys, prohibits secondary displays, and restricts web browsing. |
